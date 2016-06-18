@@ -1,9 +1,9 @@
-//
-//  Arme.swift
-//  GameOC
-//
-//  Created by qr0w on 18/06/16.
-//  Copyright © 2016 qr0w. All rights reserved.
-//
-
 import Foundation
+
+class Arme {
+    var degats: Int
+
+    init (degats: Int) {
+        self.degats = degats
+    }
+}

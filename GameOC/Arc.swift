@@ -1,9 +1,7 @@
-//
-//  Arc.swift
-//  GameOC
-//
-//  Created by qr0w on 18/06/16.
-//  Copyright © 2016 qr0w. All rights reserved.
-//
-
 import Foundation
+
+class Arc: Arme {
+    init() {
+        super.init(degats: 12)
+    }
+}
