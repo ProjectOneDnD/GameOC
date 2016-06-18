@@ -8,12 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		516992D91D15929B00ABBD67 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992D81D15929B00ABBD67 /* main.swift */; };
-		516992E01D1597A000ABBD67 /* Personnage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992DF1D1597A000ABBD67 /* Personnage.swift */; };
-		516992E21D15995C00ABBD67 /* Arme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992E11D15995C00ABBD67 /* Arme.swift */; };
-		516992E41D15996A00ABBD67 /* Classe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992E31D15996A00ABBD67 /* Classe.swift */; };
-		516992E61D15999B00ABBD67 /* Arc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992E51D15999B00ABBD67 /* Arc.swift */; };
-		516992E81D1599AD00ABBD67 /* Epee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992E71D1599AD00ABBD67 /* Epee.swift */; };
-		516992EA1D1599B500ABBD67 /* Sceptre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992E91D1599B500ABBD67 /* Sceptre.swift */; };
+		516992FF1D15A02B00ABBD67 /* Personnage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 516992FE1D15A02B00ABBD67 /* Personnage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,12 +26,7 @@
 /* Begin PBXFileReference section */
 		516992D51D15929B00ABBD67 /* GameOC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GameOC; sourceTree = BUILT_PRODUCTS_DIR; };
 		516992D81D15929B00ABBD67 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		516992DF1D1597A000ABBD67 /* Personnage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Personnage.swift; sourceTree = "<group>"; };
-		516992E11D15995C00ABBD67 /* Arme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arme.swift; sourceTree = "<group>"; };
-		516992E31D15996A00ABBD67 /* Classe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Classe.swift; sourceTree = "<group>"; };
-		516992E51D15999B00ABBD67 /* Arc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arc.swift; sourceTree = "<group>"; };
-		516992E71D1599AD00ABBD67 /* Epee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Epee.swift; sourceTree = "<group>"; };
-		516992E91D1599B500ABBD67 /* Sceptre.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sceptre.swift; sourceTree = "<group>"; };
+		516992FE1D15A02B00ABBD67 /* Personnage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Personnage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,13 +59,8 @@
 		516992D71D15929B00ABBD67 /* GameOC */ = {
 			isa = PBXGroup;
 			children = (
-				516992E51D15999B00ABBD67 /* Arc.swift */,
-				516992E11D15995C00ABBD67 /* Arme.swift */,
-				516992E31D15996A00ABBD67 /* Classe.swift */,
-				516992E71D1599AD00ABBD67 /* Epee.swift */,
 				516992D81D15929B00ABBD67 /* main.swift */,
-				516992DF1D1597A000ABBD67 /* Personnage.swift */,
-				516992E91D1599B500ABBD67 /* Sceptre.swift */,
+				516992FE1D15A02B00ABBD67 /* Personnage.swift */,
 			);
 			path = GameOC;
 			sourceTree = "<group>";
@@ -137,13 +122,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				516992E21D15995C00ABBD67 /* Arme.swift in Sources */,
 				516992D91D15929B00ABBD67 /* main.swift in Sources */,
-				516992E61D15999B00ABBD67 /* Arc.swift in Sources */,
-				516992E41D15996A00ABBD67 /* Classe.swift in Sources */,
-				516992E81D1599AD00ABBD67 /* Epee.swift in Sources */,
-				516992EA1D1599B500ABBD67 /* Sceptre.swift in Sources */,
-				516992E01D1597A000ABBD67 /* Personnage.swift in Sources */,
+				516992FF1D15A02B00ABBD67 /* Personnage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +245,7 @@
 				516992DE1D15929B00ABBD67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
