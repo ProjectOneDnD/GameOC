@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C1D42A7CC4ED7DB772A7FB2CA9B6F19D6CB695D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "212CD2D64EB35775F007E5DC5B8B315E978BE573" : 0,
+    "4C1D42A7CC4ED7DB772A7FB2CA9B6F19D6CB695D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1C224C62-C491-49EB-9C28-A5D5964A739C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "212CD2D64EB35775F007E5DC5B8B315E978BE573" : "GameOC\/GameOC\/",
+    "4C1D42A7CC4ED7DB772A7FB2CA9B6F19D6CB695D" : "GameOC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GameOC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GameOC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qr0wproject\/GameOC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "212CD2D64EB35775F007E5DC5B8B315E978BE573"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ProjectOneDnD\/GameOC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C1D42A7CC4ED7DB772A7FB2CA9B6F19D6CB695D"
+    }
+  ]
+}
