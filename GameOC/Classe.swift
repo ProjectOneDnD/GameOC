@@ -1,5 +1,9 @@
-import Foundation
+//
+//  Classe.swift
+//  GameOC
+//
+//  Created by qr0w on 18/06/16.
+//  Copyright © 2016 qr0w. All rights reserved.
+//
 
-enum Classe {
-    case Archer, Guerrier, Mage
-}
+import Foundation
